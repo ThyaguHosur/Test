@@ -10,4 +10,5 @@ public class BaseClass {
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
 	}
 	WebDriver driver = new ChromeDriver();
+//WebDriver driver = new ChromeDriver();
 }
